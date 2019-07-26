@@ -1,0 +1,7 @@
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\bin\Debug\ConversorFracaoBanaria.exe.config
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\bin\Debug\ConversorFracaoBanaria.exe
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\bin\Debug\ConversorFracaoBanaria.pdb
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\obj\Debug\ConversorFracaoBanaria.csprojAssemblyReference.cache
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\obj\Debug\ConversorFracaoBanaria.csproj.CoreCompileInputs.cache
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\obj\Debug\ConversorFracaoBanaria.exe
+Q:\PROJETOS\GITHUB\ConversorFracaoBanaria\ConversorFracaoBanaria\obj\Debug\ConversorFracaoBanaria.pdb
